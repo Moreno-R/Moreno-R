@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moreno-R.
+- 👋 Hi, I’m Refugio Moreno @Moreno-R.
 - 👀 I’m interested on getting more familar with Github.
 - 🌱 I’m a current Python Student. 
 - 💞️ I’m looking to collaborate on projects for first time Python Developers.
